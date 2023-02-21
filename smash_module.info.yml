@@ -1,8 +1,8 @@
 name: Smash Module
 type: module
 description: 'Working with Smash Module.'
-package: Custom f
+package: Custom 
 core_version_requirement: ^8.8 || ^9
-base theme: false d
-libraries:f
+base theme: false 
+libraries:
   - smash_module/global-styling
