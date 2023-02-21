@@ -1,0 +1,8 @@
+name: Smash Module
+type: module
+description: 'Working with Smashing dashing Module.'
+package: Custom
+core_version_requirement: ^8.8 || ^9
+base theme: false
+libraries:
+  - smash_module/global-styling
