@@ -1,8 +1,8 @@
 name: Smash Module
 type: module
-description: 'Working with Smashing123 Module.'
-package: Custom
+description: 'Working with Smash Module.'
+package: Custom f
 core_version_requirement: ^8.8 || ^9
-base theme: false
-libraries:
+base theme: false d
+libraries:f
   - smash_module/global-styling
